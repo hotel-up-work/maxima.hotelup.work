@@ -1,6 +1,6 @@
 # Maxima
 
-Live site: https://maxima.webart.work
+Live site: https://maxima.hotelup.work
 
 ## About
 Maxima is a hotel in Kamianets-Podilskyi at prospekt Hrushevskoho, 41B, positioned as a simple, practical base for travelers. It offers free Wi-Fi, free parking, family rooms, a 24/7 reception, and transfer service available on request for an extra fee. The page does not list detailed room categories, capacity, or pricing.
@@ -15,7 +15,7 @@ Maxima is a hotel in Kamianets-Podilskyi at prospekt Hrushevskoho, 41B, position
 ## Contact
 - Phone: +38 096 918 77 66
 - Address: prospekt Hrushevskoho, 41B, Kamianets-Podilskyi
-- Website/booking: maxima.webart.work (Google Maps link to the address is provided on the page)
+- Website/booking: maxima.hotelup.work (Google Maps link to the address is provided on the page)
 
 ## Notes
 The page explicitly states that room counts, categories, sizes, bed configuration, and pricing are not confirmed and should be checked with reception before booking. It also notes that no guest rating is published without a verified source.
